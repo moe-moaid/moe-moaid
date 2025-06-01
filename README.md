@@ -2,7 +2,7 @@ Hi, This is Mohammed Moaid, <br>
 A Frontend Engineer @ BCDapps,<br>
 I work with React.js, Next.js, Javascript, TypeScript<br>
 I deliver high-standard code with best practices followed<br>
-currently trying to explore more about different technologies like svelte, vue, and angular<br>
+currently trying to dive deep in Frontend Architechture and design<br>
 <br>
 <br>
 <br>
